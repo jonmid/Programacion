@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Programacion</string>
+    <string name="str_tv_1">Nombres</string>
+    <string name="str_tv_2">Apellidos</string>
+    <string name="str_btn_1">Crear usuario</string>
+    <string name="str_btn_2">Listar usuarios</string>
+</resources>
